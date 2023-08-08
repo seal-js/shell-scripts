@@ -1,0 +1,52 @@
+{
+  "wesen": [
+    {
+      "name": "Ork",
+      "staerke": 5,
+      "kraefte": ["Muskelkraft"],
+      "biotop": "Wald"
+    },
+    {
+      "name": "Oger",
+      "staerke": 8,
+      "kraefte": ["Muskelkraft"],
+      "biotop": "Sumpf"
+    },
+    {
+      "name": "Elf",
+      "staerke": 1,
+      "kraefte": [],
+      "biotop": "Wald"
+    },
+    {
+      "name": "Ghul",
+      "staerke": 6,
+      "kraefte": ["Transformation"],
+      "biotop": "Wald"
+    },
+    {
+      "name": "Gnom",
+      "staerke": 2,
+      "kraefte": ["Wand"],
+      "biotop": "Sumpf"
+    },
+    {
+      "name": "Klabautermann",
+      "staerke": 2,
+      "kraefte": ["Unsichtbarkeit"],
+      "biotop": "Meer"
+    },
+    {
+      "name": "Goblin",
+      "staerke": 3,
+      "kraefte": ["Zauberkraft"],
+      "biotop": "Wald"
+    },
+    {
+      "name": "Basilisk",
+      "staerke": 8,
+      "kraefte": ["Blick"],
+      "biotop": "Erde"
+    }
+  ]
+}
