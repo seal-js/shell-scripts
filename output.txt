@@ -1,0 +1,13 @@
+Hallo
+allmatch_string.sh
+firstmatch_string.sh
+longest_substring.sh
+luser-demo02.sh
+luser-demo03.sh
+luser-demo04.sh
+measure_time.sh
+not-set-e.sh
+posmatch_string.sh
+set-e.sh
+set-x.sh
+shortest_string.sh
